@@ -32,7 +32,7 @@ La app permitirá:
 ```
 https://rickandmortyapi.com/api/character/
 ```
-dejar en el readme la documentacion de la api usada
+> dejar en el readme la documentacion de la api usada
 ---
 
 ## 📂 **Requerimientos Técnicos**
